@@ -1,0 +1,11 @@
+{
+    "name": "package/custom-validator",
+    "require": {
+      "ext-ctype": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    }
+}
